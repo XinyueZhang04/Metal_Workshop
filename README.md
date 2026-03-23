@@ -1,4 +1,4 @@
-## Project Description / 项目内容
+## Project Description 
 
 - **CNC Milling (Basic Operation)** – Machined a precision platform/table
 - **Conventional Turning (Lathe)** – Turned a spinning top
